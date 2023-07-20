@@ -1,7 +1,7 @@
 ### 💫✨<u>**About me**</u>👋 
 
-Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics form The Hebrew University of Jerusalem.
-
+Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics from The Hebrew University of Jerusalem.
+My thesis 
 
 <!--
 **Amityaron/Amityaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
