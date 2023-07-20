@@ -1,4 +1,4 @@
-### <u>💫  ✨ **About me** 👋</u> 
+### 💫✨<u>**About me**</u>👋 
 
 Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics form The Hebrew University of Jerusalem.
 
