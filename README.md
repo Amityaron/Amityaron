@@ -1,9 +1,9 @@
 ### 💫✨<u>**About me**</u>👋 
 
- 🔭 Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics from The Hebrew University of Jerusalem. \
-    Researching ETF's pricing and distortions in the capital market. \
-    My thesis is on Clustering Methods for High-Dimensional Single-Cell Flow and Mass Cytometry Data. \
-    Feel free to ask me about any of my repos, I love getting messages about my work!
+ 🔭 Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics from The Hebrew University of Jerusalem. 
+    Researching ETF's pricing and distortions in the capital market. 
+    My thesis is on Clustering Methods for High-Dimensional Single-Cell Flow and Mass Cytometry Data. 
+    💬 Feel free to ask me about any of my repos, I love getting messages about my work!
  
 
 <!--
