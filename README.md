@@ -2,7 +2,6 @@
 
 Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics from The Hebrew University of Jerusalem.
 
-
 My thesis 
 
 <!--
