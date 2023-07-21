@@ -4,7 +4,7 @@
       $~~~~~~$ Researching ETF's pricing and distortions in the capital market.<br />
     🔭 My thesis is on Clustering Methods for High-Dimensional Single-Cell Flow and Mass Cytometry Data.<br />
     💬 Feel free to ask me about any of my repos, I love getting messages about my work! 
-    [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/) <br />
+    [![LinkedIn](https://github.com/Amityaron/Amityaron/blob/main/linkdin.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/) <br />
     ☕ If my code or my notes helped you, you can buy me a coffee if you'd like
     
 ### 💻 **Tech Stack**
