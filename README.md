@@ -5,7 +5,7 @@
     🔭 My thesis is on Clustering Methods for High-Dimensional Single-Cell Flow and Mass Cytometry Data.<br />
     💬 Feel free to ask me about any of my repos, I love getting messages about my work! 
     [![LinkedIn](https://github.com/Amityaron/Amityaron/blob/main/linkdin.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/) <br />
-    ☕ If my code or my notes helped you, you can buy me a coffee if you'd like
+    ☕ If my code or my notes helped you, you can buy me a coffee if you'd like  [![Ko-fi](https://github.com/Amityaron/Amityaron/blob/main/ko%20fi.png)](https://ko-fi.com/amityaron) <br />
     
 ### 💻 **Tech Stack**
 
