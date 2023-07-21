@@ -1,4 +1,4 @@
-### 💫✨<u>**About me**</u>👋 
+![image](https://github.com/Amityaron/Amityaron/assets/70226919/6faec63e-c979-4c8b-8e5a-497fa8828df6)### 💫✨<u>**About me**</u>👋 
 
   📈 Quantitative trade geek and Data Scientist, MSc graduate in data science and statistics from The Hebrew University of Jerusalem.<br /> 
       $~~~~~~$ Researching ETF's pricing and distortions in the capital market.<br />
