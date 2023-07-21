@@ -29,7 +29,7 @@
 
 
 
-### 👩‍💻 NLP / Data Science Public Projects
+### 👩‍💻 Data Science Public Projects
 
 
 
