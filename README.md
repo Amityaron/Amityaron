@@ -31,7 +31,7 @@
 
 ### 👩‍💻 Data Science Public Projects
 ###  [Generalized Linear Model-Probit model](https://github.com/Amityaron/Generalized-linear-model)
-
+###  [Lab1-Flight-Analysis](https://github.com/Amityaron/Statistical-Learning-Lab1-Flight-Analysis)
 
 
 
