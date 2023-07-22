@@ -6,6 +6,10 @@
     💬 Feel free to ask me about any of my repos, I love getting messages about my work! 
     [![LinkedIn](https://github.com/Amityaron/Amityaron/blob/main/linkdin.png)](https://www.linkedin.com/in/amit-yaron-7934641b5/) <br />
     ☕ If my code or my notes helped you, you can buy me a coffee if you'd like  [![Ko-fi](https://github.com/Amityaron/Amityaron/blob/main/ko%20fi.png)](https://ko-fi.com/amityaron) <br />
+
+### Thesis on Clustering Methods for High-Dimensional Single-Cell Flow and Mass Cytometry Data with Prof David Zucker.
+Building a semi-supervised clustering model on Single-Cell Flow based on Evaluation and assessment <br />
+Link to the thesis: [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
     
 ### 💻 **Tech Stack**
 [![My sql](https://camo.githubusercontent.com/d7402a677a2c849a561d0333780a1527ac40c90f7496b1ca967f6cd0eb4afcd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/d7402a677a2c849a561d0333780a1527ac40c90f7496b1ca967f6cd0eb4afcd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) 
