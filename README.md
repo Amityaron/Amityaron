@@ -30,6 +30,7 @@
 
 
 ### 👩‍💻 Data Science Public Projects
+###  [Generalized Linear Model-Probit model](https://github.com/Amityaron/Generalized-linear-model)
 
 
 
