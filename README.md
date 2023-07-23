@@ -39,7 +39,7 @@ Link to the thesis: [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
 ### 👩‍💻 Data Science Public Projects
 ###  [Generalized Linear Model-Probit model](https://github.com/Amityaron/Generalized-linear-model)
 ###  [Lab1-Flight-Analysis](https://github.com/Amityaron/Statistical-Learning-Lab1-Flight-Analysis)
-
+###  [Lab-2-Elections-and-RNA-sequencing](https://github.com/Amityaron/Lab-2-Elections-and-RNA-sequencing/blob/main/README.md)
 
 
 
