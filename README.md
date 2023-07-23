@@ -41,7 +41,7 @@ Link to the thesis: [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
 ###  [Lab1-Flight-Analysis](https://github.com/Amityaron/Statistical-Learning-Lab1-Flight-Analysis)
 ###  [Lab-2-Elections-and-RNA-sequencing](https://github.com/Amityaron/Lab-2-Elections-and-RNA-sequencing/blob/main/README.md)
 ###  [Lab-3-Nadaraya-Watson-kernel-regression](https://github.com/Amityaron/Lab-3-Nadaraya-Watson-kernel-regression)
-
+###  [Lab4-Classification-lab](https://github.com/Amityaron/Lab4-Classification-lab)
 
 
 <!--
