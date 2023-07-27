@@ -43,7 +43,7 @@ Link to the thesis: [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
 ###  [Lab-3-Nadaraya-Watson-kernel-regression](https://github.com/Amityaron/Lab-3-Nadaraya-Watson-kernel-regression)
 ###  [Lab4-Classification-lab](https://github.com/Amityaron/Lab4-Classification-lab)
 ###  [Multi-comparisons-for-hypotheses-testing](https://github.com/Amityaron/Multi-comparisons-for-hypotheses-testing/tree/main)		
-
+###  [Optimize-Gradient-Descent-Learning-Rate](https://github.com/Amityaron/Optimize-Gradient-Descent-Learning-Rate/tree/main)	
 <!--
 **Amityaron/Amityaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
