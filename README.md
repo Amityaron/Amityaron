@@ -11,9 +11,16 @@
 with Professor David Zucker.<br />
 The thesis delves into the development of a semi-supervised clustering model from scratch for Single-Cell Flow.<br /> 
 The construction of this model is centered around a focus on evaluation and assessment.<br />
-Link to the thesis: [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
+**Link to the thesis:** [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
 
-    
+###  Detailed Notes and Resources (Hebrew)
+I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses. <br />
+I studied independently and published them as a part of my goal to make Data Science & statistics topics more accessible to Hebrew speakers. <br />
+This collection contains detailed notes in Hebrew on subjects such as Math (Advanced Calculus, Linear Algebra, Probability, Principles and Applications in Statistical  Analysis).</br>
+Foundations of Computer Science (Data Structures, Algorithms), as well as advanced <br />
+Data Science (Machine Learning, Regression and Statistical Models, Statistical Inference and Its Applications,  <br />
+Nonparametric statistics, Generalized Linear Models)  <br />
+
 ### 💻 **Tech Stack**
 [![My sql](https://camo.githubusercontent.com/d7402a677a2c849a561d0333780a1527ac40c90f7496b1ca967f6cd0eb4afcd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/d7402a677a2c849a561d0333780a1527ac40c90f7496b1ca967f6cd0eb4afcd9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465) 
 [![numpy](https://camo.githubusercontent.com/1ce4d5fa389f86b020dde6de95f48835fea0cb650d35c5f4678b098173ff1201/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666c6174266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/1ce4d5fa389f86b020dde6de95f48835fea0cb650d35c5f4678b098173ff1201/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666c6174266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465) 
