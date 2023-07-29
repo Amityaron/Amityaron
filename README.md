@@ -13,7 +13,7 @@ The thesis delves into the development of a semi-supervised clustering model fro
 The construction of this model is centered around a focus on evaluation and assessment.<br />
 **Link to the thesis:** [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
 
-###  [Detailed Notes and Resources (Hebrew)](https://github.com/Amityaron/Detailed-Notes-Collection)
+###  [Detailed Notes and Resources (Hebrew)](https://github.com/Amityaron/Notes/blob/main/README.md)
 I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses. <br />
 I studied independently and published them as a part of my goal to make Data Science & statistics topics more accessible to Hebrew speakers. <br />
 This collection contains detailed notes in Hebrew on subjects such as Math (Advanced Calculus, Linear Algebra, Probability, Principles and Applications in Statistical  Analysis).</br>
