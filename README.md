@@ -24,9 +24,7 @@ Data Science (Machine Learning, Regression and Statistical Models, Statistical I
 Nonparametric statistics, Generalized Linear Models)  <br />
 
 ### 💻 **Tech Stack**<br />
-<div > 
-	
-	<code><img width="25" src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit learn" title="scikit learn"/></code>
+<div > <code><img width="25" src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit learn" title="scikit learn"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png" alt="Numpy" title="Numpy"/></code>
 	<code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL" title="MYSQL"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -36,8 +34,7 @@ Nonparametric statistics, Generalized Linear Models)  <br />
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-</div>
+	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code></div>
 
 <br />
 
