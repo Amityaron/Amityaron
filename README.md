@@ -23,7 +23,7 @@ Foundations of Computer Science (Data Structures, Algorithms), as well as advanc
 Data Science (Machine Learning, Regression and Statistical Models, Statistical Inference and Its Applications,  <br />
 Nonparametric statistics, Generalized Linear Models)  <br />
 
-### 💻 **Tech Stack**
+### 💻 **Tech Stack**<br />
 <div > 
 	
 	<code><img width="25" src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit learn" title="scikit learn"/></code>
