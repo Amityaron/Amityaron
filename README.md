@@ -11,7 +11,7 @@
 with Professor David Zucker.<br />
 The thesis delves into the development of a semi-supervised clustering model from scratch for Single-Cell Flow.<br /> 
 The construction of this model is centered around a focus on evaluation and assessment.<br />
-**Link to the thesis:** [Link](https://www.overleaf.com/read/rcdmvhcxmdwk) <br />
+**Link to the thesis:** [Link](https://huji.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&vid=972HUJI_INST:972HUJI_V1&search_scope=MyInst_and_CI&tab=Search_Options&docid=alma9921265660403701) <br />
 
 ###  [Detailed Notes and Resources (Hebrew)](https://github.com/Amityaron/Notes/tree/main)
 I have collected all of the detailed notes I wrote during my studies at HebrewU as well as courses. <br />
