@@ -24,13 +24,11 @@ Data Science (Machine Learning, Regression and Statistical Models, Statistical I
 Nonparametric statistics, Generalized Linear Models)  <br />
 
 ### 💻 **Tech Stack**
-[![numpy](https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png)](https://camo.githubusercontent.com/1ce4d5fa389f86b020dde6de95f48835fea0cb650d35c5f4678b098173ff1201/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666c6174266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465) 
-[![pandas](https://camo.githubusercontent.com/bbdb2d03996d3147bd9f4643cc8d1739cd3e7ffebdbd42fdb49fee975c72a586/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666c6174266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/bbdb2d03996d3147bd9f4643cc8d1739cd3e7ffebdbd42fdb49fee975c72a586/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666c6174266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)
-[![ploty](https://camo.githubusercontent.com/1608c7a87378c72119a22a6c3a37b11fecdcc303702e5d88967c5393303cc6cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666c6174266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/1608c7a87378c72119a22a6c3a37b11fecdcc303702e5d88967c5393303cc6cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666c6174266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465)
-[![scikit learn](https://camo.githubusercontent.com/6852235a18cf1e0ed1665ca7b73fba3f28dc27c47d9cad3821ee08a66a3e8c74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666c6174266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6852235a18cf1e0ed1665ca7b73fba3f28dc27c47d9cad3821ee08a66a3e8c74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666c6174266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)
-
 <div > 
-	<code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL" title="Git"/></code>
+	
+	<code><img width="25" src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit learn" title="scikit learn"/></code>
+	<code><img width="25" src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png" alt="Numpy" title="Numpy"/></code>
+	<code><img width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL" title="MYSQL"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" alt="Bitbucket" title="Bitbucket"/></code>
