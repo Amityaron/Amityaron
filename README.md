@@ -49,6 +49,7 @@ Nonparametric statistics, Generalized Linear Models)  <br />
 ###  [Multi-comparisons-for-hypotheses-testing](https://github.com/Amityaron/Multi-comparisons-for-hypotheses-testing/tree/main)		
 ###  [Optimize-Gradient-Descent-Learning-Rate](https://github.com/Amityaron/Optimize-Gradient-Descent-Learning-Rate/tree/main)	
 ###  [Data-Science-for-Finance](https://github.com/Amityaron/Data-Science-for-Finance/tree/main)
+###  [Anomaly-detection-Option-price in stock market](https://github.com/Amityaron/Anomaly-detection-Option-price-)
 <!--
 **Amityaron/Amityaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
